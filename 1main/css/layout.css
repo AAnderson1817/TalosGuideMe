@@ -669,10 +669,10 @@ ul.slimmenu.collapsed li > ul {
 	color:#000;
 }
 .title-text.left h3{
-	text-align:left;
+	text-align:center;
 	padding-top:40px;
 	width:100%;
-	max-width:580px;
+	/*max-width:580px;*/
 }
 .title-text.left p span{
 	padding-left:80px;
