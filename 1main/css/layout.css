@@ -838,7 +838,7 @@ svg * {
 }
 .quote{
 	position:relative;
-	padding-left:96px;
+	padding-left:250px;
 	margin:0 auto;
 	overflow:hidden;
 	display:block;
@@ -849,7 +849,7 @@ svg * {
 	background-size: 18px 11px;
 }
 .quote h4{
-	text-align:left;
+	text-align:center;
 	font-style: italic;
 	color:#c8c8c8;
 	font-weight:300;
@@ -1693,7 +1693,7 @@ figure.vimeo a img, figure.youtube a img {
 	right:0;
 }
 .pricing-plan .top{
-	position:relative;
+	/*position:relative;*/
 	text-align:left;
 	font-family: 'Poppins', sans-serif;
 	font-weight:600;
