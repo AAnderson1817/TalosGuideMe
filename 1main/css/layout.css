@@ -2135,6 +2135,7 @@ figure.vimeo a img, figure.youtube a img {
 	position: relative;
 	width: 100%;
     height:500px;
+  display:none;
 }
 #cd-google-map {
 	position: relative;
